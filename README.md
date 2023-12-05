@@ -121,5 +121,5 @@ Project Link: [https://github.com/genezaleski/financial_news_sentiment_mining](h
 [news.link]: https://img.shields.io/badge/Google%20News-blue
 [pandas-url]: https://pandas.pydata.org/
 [pandas.link]: https://img.shields.io/badge/pandas-purple
-[mpl.url]: https://matplotlib.org/
+[mpl-url]: https://matplotlib.org/
 [mpl.link]: https://img.shields.io/badge/matplotlib-orange
