@@ -57,22 +57,22 @@
 Python must be installed on this computer to execute some of the 
 Installation instructions for python can be found <a href="https://www.python.org/downloads/">here.</a>
 
-Default Python libraries used for this project include:
-csv
-datetime
-glob
-os
-re
-time
+Default Python libraries used for this project include: <br />
+csv<br />
+datetime<br />
+glob<br />
+os<br />
+re<br />
+time<br />
 
-Additional Python libraries used for this project include:
-GoogleNews
-matplotlib
-newspaper
-nltk
-pandas
-progress
-yfinance
+Additional Python libraries used for this project include:<br />
+GoogleNews<br />
+matplotlib<br />
+newspaper<br />
+nltk<br />
+pandas<br />
+progress<br />
+yfinance<br />
 
 An installation script can be found at the top level of this repository <a href="https://github.com/genezaleski/financial_news_sentiment_mining/blob/main/install.sh">here.</a>
 
