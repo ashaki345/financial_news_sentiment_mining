@@ -115,11 +115,11 @@ Project Link: [https://github.com/genezaleski/financial_news_sentiment_mining](h
 [product-screenshot]: images/screenshot.png
 [Python.link]: https://img.shields.io/pypi/pyversions/Django
 [Python-url]: https://www.python.org/
-[nltk-url]: = https://www.nltk.org/
+[nltk-url]: https://www.nltk.org/
 [nltk.link]: https://img.shields.io/badge/Natural%20Language%20Toolkit%20(NLTK)-red
-[news-url]: = https://news.google.com/home?hl=en-US&gl=US&ceid=US:en
+[news-url]: https://news.google.com/home?hl=en-US&gl=US&ceid=US:en
 [news.link]: https://img.shields.io/badge/Google%20News-blue
-[pandas-url] = https://pandas.pydata.org/
-[pandas.link] = https://img.shields.io/badge/pandas-purple
-[mpl.url] = https://matplotlib.org/
-[mpl.link] = https://img.shields.io/badge/matplotlib-orange
+[pandas-url]: https://pandas.pydata.org/
+[pandas.link]: https://img.shields.io/badge/pandas-purple
+[mpl.url]: https://matplotlib.org/
+[mpl.link]: https://img.shields.io/badge/matplotlib-orange
