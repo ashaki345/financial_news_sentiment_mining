@@ -58,21 +58,21 @@ Python must be installed on this computer to execute some of the
 Installation instructions for python can be found <a href="https://www.python.org/downloads/">here.</a>
 
 Default Python libraries used for this project include: <br />
-csv<br />
-datetime<br />
-glob<br />
-os<br />
-re<br />
-time<br />
+  csv
+  datetime
+  glob
+  os
+  re
+  time
 
 Additional Python libraries used for this project include:<br />
-GoogleNews<br />
-matplotlib<br />
-newspaper<br />
-nltk<br />
-pandas<br />
-progress<br />
-yfinance<br />
+  GoogleNews
+  matplotlib
+  newspaper
+  nltk
+  pandas
+  progress
+  yfinance
 
 An installation script can be found at the top level of this repository <a href="https://github.com/genezaleski/financial_news_sentiment_mining/blob/main/install.sh">here.</a>
 
@@ -113,13 +113,13 @@ Project Link: [https://github.com/genezaleski/financial_news_sentiment_mining](h
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/gene-zaleski-56b2a0175
 [product-screenshot]: images/screenshot.png
-[Python.link]: https://img.shields.io/pypi/pyversions/Django
+[Python.link]: https://img.shields.io/badge/python-gray?logo=python&logoColor=#3776AB
 [Python-url]: https://www.python.org/
 [nltk-url]: https://www.nltk.org/
 [nltk.link]: https://img.shields.io/badge/Natural%20Language%20Toolkit%20(NLTK)-red
 [news-url]: https://news.google.com/home?hl=en-US&gl=US&ceid=US:en
-[news.link]: https://img.shields.io/badge/Google%20News-blue
+[news.link]: https://img.shields.io/badge/Google%20News-blue?logo=googlenews&logoColor=#174EA6
 [pandas-url]: https://pandas.pydata.org/
-[pandas.link]: https://img.shields.io/badge/pandas-purple
+[pandas.link]: https://img.shields.io/badge/pandas-black?logo=pandas&logoColor=#150458
 [mpl-url]: https://matplotlib.org/
 [mpl.link]: https://img.shields.io/badge/matplotlib-orange
