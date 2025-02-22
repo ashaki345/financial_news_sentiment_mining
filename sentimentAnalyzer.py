@@ -1,6 +1,7 @@
 import csv
 import glob
-
+import nltk
+nltk.downloader.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk import WordNetLemmatizer
 from nltk.stem import PorterStemmer
